@@ -1,4 +1,4 @@
-# gibui
+# Gibui
 simple folder sync software 
 ## dependencies
 1. pip install tkinter
